@@ -360,7 +360,7 @@ Required input data include:
 * supplementary inputs required by the analysis scripts
 * GWAS and eQTL summary statistics used for SMR analysis
 
-Raw sequencing data and processed single-cell matrices will be made available through EGA. Supplementary script inputs will be made available through Zenodo.
+Raw sequencing data is currently under archiving process by the European Genome-Phenotype Archive. Once manuscript is approved, FASTQ files will be available through accession EGAS00001008518. Supplementary script inputs are available on Zenodo.org with accession numbers written in corresponding codes.
 
 Input paths are defined within the individual scripts and should be updated by users according to their local directory structure.
 
